@@ -28,7 +28,7 @@ feat_info('mort_acc')
 #%%
 
 
-df = pd.read_csv('Data/lending_club_loan_two.csv')
+df = pd.read_csv('lending_club_loan_two.csv')
 
 df.head()
 df.info()
